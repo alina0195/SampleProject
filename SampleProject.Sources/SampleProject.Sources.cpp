@@ -1,5 +1,3 @@
-// SampleProject.Sources.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 #include "MathFunctions.h"
 #include <iostream>
 
@@ -7,7 +5,6 @@ int main()
 {
     int result = add(4, 2);
     std::cout << result;
-    std::cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
